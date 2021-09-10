@@ -6,7 +6,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@dasha.ai/sdk": "^0.3.0",
+    "@dasha.ai/sdk": "^0.6.5",
     "yargs": "^17.0.1"
   }
 }
